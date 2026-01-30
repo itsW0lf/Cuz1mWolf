@@ -52,4 +52,4 @@ Minecraft ist seit 2017 meine absolute Leidenschaft. Was als Hobby begann, hat s
 </tr>
 </table>
 
-> *"Und wenn bei ihnen mal was nicht richtig läuft, komm ich persönlich vorbei und packe Spark drauf."* ~ itsw0lf
+> *"Und wenn bei ihnen mal was nicht richtig läuft, komm ich persönlich vorbei und packe Spark drauf."* ~ Maus1143
