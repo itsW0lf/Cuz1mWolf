@@ -54,23 +54,3 @@ Minecraft ist seit 2017 meine absolute Leidenschaft. Was als Hobby begann, hat s
 
 > *"Und wenn bei ihnen mal was nicht richtig läuft, komm ich persönlich vorbei und packe Spark drauf."* ~ Maus1143
 
-📊 GitHub Statistiken
-<div align="center">
-
-<a href="https://www.google.com/url?sa=E&source=gmail&q=https://github.com/itsw0lf"> <img height="180em" src="https://www.google.com/search?q=https://github-readme-stats-sigma-five.vercel.app/api%3Fusername%3Ditsw0lf%26show_icons%3Dtrue%26theme%3Dtokyonight%26include_all_commits%3Dtrue%26count_private%3Dtrue"/>
-
-<div align="center">
-
-<img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3Ditsw0lf%26theme%3Dtokyonight" alt="GitHub Streak"/>
-
-</div>
-
-<img height="180em" src="https://www.google.com/search?q=https://github-readme-stats-sigma-five.vercel.app/api/top-langs/%3Fusername%3Ditsw0lf%26layout%3Dcompact%26theme%3Dtokyonight"/> </a>
-
-</div>
-
-<div align="center">
-
-<img src="https://www.google.com/search?q=https://komarev.com/ghpvc/%3Fusername%3Ditsw0lf%26color%3DFFA500%26style%3Dfor-the-badge" alt="Profile Views"/>
-
-</div>
