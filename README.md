@@ -23,3 +23,38 @@ Fokus: Minecraft Server Infrastructure & Development
 ```
 
 Minecraft ist seit 2017 meine absolute Leidenschaft. Was als Hobby begann, hat sich über die Jahre zu einer tiefen Expertise in der Server-Landschaft entwickelt. Ich liebe es, Systeme zu optimieren und maßgeschneiderte Lösungen für Netzwerke zu finden. <3
+
+🛡️ Was ich mache
+<table> <tr> <td width="50%">
+
+🛠️ Server & Infrastructure
+Performance Tuning (Paper/Pufferfish/Purpur)
+
+Velocity & BungeeCord Setups
+
+MySQL/MariaDB Integration
+
+Linux Server Hardening (Debian/Ubuntu)
+
+Docker & Pterodactyl Setup
+
+Anti-DDoS & Proxy-Shielding
+
+</td> <td width="50%">
+
+💻 Development & Design
+Custom Plugin Development (Java)
+
+API Integrationen (LuckPerms, Vault, etc.)
+
+Web-Dashboards für Server
+
+Discord-Bot Development (JDA / Discord.js)
+
+Datapack & Resourcepack Logic
+
+Webseiten für Minecraft-Projekte
+
+</td> </tr> </table>
+
+"Und wenn bei ihnen mal was nicht richtig läuft, komm ich persönlich vorbei und packe Spark drauf." ~ Maus1143
