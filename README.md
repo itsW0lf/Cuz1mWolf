@@ -28,6 +28,7 @@ Minecraft ist seit 2017 meine absolute Leidenschaft. Was als Hobby begann, hat s
 <table> <tr> <td width="50%">
 
 🛠️ Server & Infrastructure
+
 Performance Tuning (Paper/Pufferfish/Purpur)
 
 Velocity & BungeeCord Setups
