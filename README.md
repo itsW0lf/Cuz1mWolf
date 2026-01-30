@@ -74,7 +74,7 @@ Minecraft ist seit 2017 meine absolute Leidenschaft. Was als Hobby begann, hat s
 
 </div>
 
-## ⛏️ Minecraft Server Consulting, Freizeit
+## ⛏️ Minecraft Server Consulting
 
 Seit **2017** erstelle und
 
