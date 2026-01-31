@@ -76,7 +76,7 @@ Minecraft ist seit 2017 meine absolute Leidenschaft. Was als Hobby begann, hat s
 
 ## ⛏️ Minecraft Server Consulting
 
-Seit **2017** erstelle und
+Seit **2017** erstelle und helfe Netzwerken in folgenden Punkten aus:
 
 * 🔧 **Server Setup & Optimization** – Performance-Tuning, Plugin-Empfehlungen, generelle Beratung
 * 🛡️ **Security Audits** – Exploits finden, Griefing verhindern, Anti-Cheat Setup
